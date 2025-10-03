@@ -52,16 +52,16 @@
   "46 - Aïn Témouchent": 700,
   "47 - Ghardaïa": 850,
   "48 - Relizane": 700,
-  "49 - El M'Ghair": 850,
-  "50 - El Menia": 900,
+  "49 - Timimoun": 850,
+  "50 - Bordj Badji Mokhtar": 900,
   "51 - Ouled Djellal": 800,
-  "52 - Bordj Badji Mokhtar": 0,
-  "53 - Béni Abbès": 900,
-  "54 - Timimoun": 1400,
+  "52 - Béni Abbès": 0,
+  "53 - In Salah": 900,
+  "54 - In Guezzam": 1400,
   "55 - Touggourt": 850,
   "56 - Djanet": 0,
-  "57 - In Salah": 1600,
-  "58 - In Guezzam": 1600
+  "57 - El M'Ghair": 1600,
+  "58 - El Menia": 1600
 
 
       };
@@ -342,4 +342,5 @@
 
 
     
+
 
